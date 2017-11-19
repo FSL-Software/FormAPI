@@ -1,0 +1,5 @@
+name: FormAPI-FS
+main: ForsLand\Saehing\FormAPI\boot
+version: 3.5
+api: 3.0.0-ALPHA9
+author: Saehing
